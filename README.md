@@ -94,16 +94,26 @@ For example, here are clusters showing the average incomes in the USA, along wit
 
 Cluster maps can have various looks, using different colors, sizes, or shapes for the clusters.
 
-For instance, a cluster map using only one style for all the clusters is, in my opinion, not really effective. The Carrefour cluster map in part 2 and the "natural" cluster map in part 3 are monotonous. Even though each cluster shows the number of the markers it gathers, the difference between the clusters' sizes could be emphasized by different colors and/or different circle sizes.
+For instance, a cluster map using only one style for all the clusters is, in my opinion, not really effective. The Carrefour cluster map in part 2 and the "natural" cluster map in part 3 are monotonous. Even though each cluster shows the number of markers it gathers, the difference between the clusters' sizes could be emphasized by different colors and/or different circle sizes.
 
-These cluster maps are indeed better to me:
+## 6. Tools to create one
 
+The most famous tool to create cluster maps is made by Google, and not surprisingly using Google Maps. The tool is called "Marker Clustering" and can be found [here](https://developers.google.com/maps/documentation/javascript/marker-clustering).
 
+Here is what it can do - although I personnally am not a fan of the cluster icons used:
 
-## 6. Sources
+<img src="img/google.png" alt="google" width="600"/>
+
+Other tools exist on the web. They are often coded in Javascript and can be easily found by typing "create cluster map" on a search engine.
+
+## 7. Sources
 
 * [Definition](https://blog.socialcops.com/academy/resources/7-techniques-to-visualize-geospatial-data/)
 * [Pictures before and after clustering, and grid cluster](http://blog.batchgeo.com/map-clustering-demo-tutorial/)
 * [Carrefour cluster map](https://www.carrefour.fr/magasin)
-* [Cluster maps variations](http://maplarge.com/visual/clustering)
+* [Auchan cluster map](https://www.auchan.fr/magasins/votremagasin)
+* [Other cluster maps variations](http://maplarge.com/visual/clustering)
+* [Darty cluster map](https://magasin.darty.com/fr/auvergne-rhone-alpes)
+* [Bouygues Telecom cluster map](http://magasins.bouyguestelecom.fr/)
 * [Pie chart cluster map](https://batchgeo.com/features/map-clustering/)
+* [Google "marker clustering"](https://github.com/googlemaps/js-marker-clusterer/blob/gh-pages/screenshot.png)
