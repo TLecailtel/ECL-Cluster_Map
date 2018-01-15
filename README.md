@@ -4,15 +4,26 @@
 
 A cluster map helps represent dense pockets of data points using a single point. Each cluster is either relatively sized to or labelled with the number of points that have been grouped together.
 
-Clusters are ideal in interactive maps where the user can drill down to see individual data points contained in a cluster. Cluster maps help reduce clutter when there are many overlapping data points in a small geography.
+Clusters are ideal in interactive maps where the user can drill down to see individual data points contained in a cluster. Cluster maps help reduce clutter when there are many overlapping data points in a small geography. Often, the clusters are updated depending on the zoom chosen by the user. 
 
-For example, to simplify the reading of the following map:
+For example, here is a map with hundreds of markers:
 
 <img src="img/before.png" alt="before" width="600"/>
 
-We could use the following cluster map to do the trick:
+Instead, we use the following cluster map:
 
 <img src="img/after.png" alt="after" width="600"/>
+
+## 2. Recent example
+
+There is no example of historical cluster maps because these maps are often interactive maps depending on several markers, thus they use recent technologies with clustering algorithms.
+
+However, there are lots of examples of recent cluster maps. They are especially used by companies that have several stores on a territory.
+
+For example, here is an extract of the cluster map of the Carrefour stores in France, on January 15th, 2018:
+
+<img src="carrefour.ong" alt="carrefour" width="600"/>
+
 
 ## 2. Variations
 
