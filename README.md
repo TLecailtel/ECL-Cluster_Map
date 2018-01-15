@@ -35,7 +35,7 @@ Clusters have a natural appearance on the map. Location is used to control place
 
 This is an example of natural clustering:
 
-<img src="img/natural.PNG" alt="natural" width="600"/>
+<img src="img/natural.png" alt="natural" width="600"/>
 
 * **Grid**
 
