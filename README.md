@@ -6,11 +6,11 @@ A cluster map helps represent dense pockets of data points using a single point.
 
 Clusters are ideal in interactive maps where the user can drill down to see individual data points contained in a cluster. Cluster maps help reduce clutter when there are many overlapping data points in a small geography.
 
-For example, a cluster map can be an alternative to simplify the reading of the following map:
+For example, to simplify the reading of the following map:
 
 <img src="img/before.png" alt="before" width="600"/>
 
-And that would be a simplified cluster map:
+We could use the following cluster map to do the trick:
 
 <img src="img/after.png" alt="after" width="600"/>
 
