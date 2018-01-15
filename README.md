@@ -44,7 +44,7 @@ Here is a map where the color and the size of each cluster is proportional to th
 
 Clusters can show the distribution of the different markers on a pie chart.
 
-For example, here are clusters showing the number of UFO sightings in the USA, and pie charts representing the different UFO shapes seen:
+For example, here are clusters showing the number of UFO sightings in 2015 in the USA, and pie charts representing the different UFO shapes seen:
 
 <img src="img/pie.PNG" alt="pie" width="600"/>
 
