@@ -22,15 +22,15 @@ There is no historical examples of cluster maps because these maps are often int
 
 However, there are lots of recent examples of cluster maps. They are especially used on the website of companies that have several stores on a territory.
 
-For example, here is an extract of the cluster map representing the Carrefour stores in France:
+For example, here is an extract of the cluster map representing the Carrefour stores in France on January 15th, 2018:
 
 <img src="img/carrefour.png" alt="carrefour" width="600"/>
 
 ## 3. Design critic
 
-I think clustering the markers is a great way of simplifying the map.
+I think clustering the markers is a great way of simplifying the maps.
 
-The following picture, with hundreds of markers representing the Auchan stores in France, looks messy to me. Furthermore, Carrefour's cluster map has the advantage of showing the actual number of stores in the area - which is impressive in the Paris area -, while the markers on Auchan's map are all compressed and their number cannot be estimated.
+The following picture, with hundreds of markers representing the Auchan stores in France, looks messy to me. Furthermore, Carrefour's cluster map has the advantage of showing the actual number of stores covered - which is impressive in the Paris area -, while the markers on Auchan's map are compressed and their number cannot be estimated.
 
 <img src="img/auchan.png" alt="auchan" width="600"/>
 
