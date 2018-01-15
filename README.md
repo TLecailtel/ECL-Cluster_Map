@@ -64,13 +64,13 @@ Here is a map where the color and the size of each cluster is proportional to th
 
 Of coure, clusters are not always represented as circles or big pins.
 
-* Darty uses an icon close to their graphical charter on the cluster map that shows their stores in the Lyon area:
+Darty uses an icon close to their graphical charter on the cluster map that shows their stores in the Lyon area:
 
 <img src="img/darty.png" alt="darty" width="600"/>
 
-* Bouygues Telecom prefers to use simple text labels as clusters:
+Bouygues Telecom prefers to use simple text labels as clusters:
 
-<img src="img/bouygues.png" alt="bouygues" width="600/>
+<img src="img/bouygues.png" alt="bouygues" width="600"/>
 
 
 
