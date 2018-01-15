@@ -14,14 +14,7 @@ And that would be the simplified cluster map:
 
 <img src="img/after.png" alt="after" width="600"/>
 
-
-## 2. Historical examples
-
-
-
-## 3. Recent examples
-
-## 4. Variations
+## 2. Variations
 * Natural
 Clusters have a natural appearance on the map. Location is used to control placement within the clustering grid. The original x,y map location of the cluster's founding data point is used for the location.
 
@@ -46,7 +39,7 @@ Here is a map where the color and the size of each cluster is proportional to th
 * Pie charts
 Clusters can show the distribution of the different markers on a pie chart.
 
-For example, here are clusters showing the number of UFO sightings in the USA, and the distribution of the shapes seen:
+For example, here are clusters showing the number of UFO sightings in the USA, and pie charts representing the different UFO shapes seen:
 
 <img src="img/pie.PNG" alt="pie" width="600"/>
 
@@ -57,7 +50,7 @@ For example, here are clusters showing the average incomes in the USA:
 
 <img src="img/average.PNG" alt="average" width="600"/>
 
-## 5. Sources
+## 3. Sources
 
 * [Definition](https://blog.socialcops.com/academy/resources/7-techniques-to-visualize-geospatial-data/)
 * [Pictures before and after clustering, and grid cluster](http://blog.batchgeo.com/map-clustering-demo-tutorial/)
