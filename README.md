@@ -4,6 +4,10 @@
 
 A cluster map is
 
+<img src="img/before.png" alt="before"/>
+<img src="img/after.png" alt="after"/>
+
+
 ## 2. Historical examples
 
 
