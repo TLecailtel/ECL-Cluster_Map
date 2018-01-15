@@ -69,7 +69,11 @@ For example, here are clusters showing the average incomes in the USA, along wit
 
 <img src="img/average.PNG" alt="average" width="600"/>
 
-## 4. Sources
+## 4. Different looks
+
+Cluster maps can have various looks, using different colors, sizes or shapes for the clusters. 
+
+## 5. Sources
 
 * [Definition](https://blog.socialcops.com/academy/resources/7-techniques-to-visualize-geospatial-data/)
 * [Pictures before and after clustering, and grid cluster](http://blog.batchgeo.com/map-clustering-demo-tutorial/)
