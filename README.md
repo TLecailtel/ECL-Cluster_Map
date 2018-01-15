@@ -24,7 +24,7 @@ However, there are lots of examples of recent cluster maps. They are especially 
 
 For example, here is an extract of the cluster map of the Carrefour stores in France, on January 15th, 2018:
 
-<img src="carrefour.png" alt="carrefour" width="600"/>
+<img src="img/carrefour.png" alt="carrefour" width="600"/>
 
 
 ## 3. Variations
@@ -73,5 +73,6 @@ For example, here are clusters showing the average incomes in the USA, along wit
 
 * [Definition](https://blog.socialcops.com/academy/resources/7-techniques-to-visualize-geospatial-data/)
 * [Pictures before and after clustering, and grid cluster](http://blog.batchgeo.com/map-clustering-demo-tutorial/)
+* [Carrefour cluster map](https://www.carrefour.fr/magasin)
 * [Cluster maps variations](http://maplarge.com/visual/clustering)
-* [Pie chart clusters](https://batchgeo.com/features/map-clustering/)
+* [Pie chart cluster map](https://batchgeo.com/features/map-clustering/)
