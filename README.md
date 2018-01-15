@@ -1,3 +1,5 @@
+## Thibault Lecailtel
+
 # Cluster Map
 
 ## 1. Definition
@@ -22,10 +24,10 @@ However, there are lots of examples of recent cluster maps. They are especially 
 
 For example, here is an extract of the cluster map of the Carrefour stores in France, on January 15th, 2018:
 
-<img src="carrefour.ong" alt="carrefour" width="600"/>
+<img src="carrefour.png" alt="carrefour" width="600"/>
 
 
-## 2. Variations
+## 3. Variations
 
 * **Natural**
 
@@ -67,7 +69,7 @@ For example, here are clusters showing the average incomes in the USA, along wit
 
 <img src="img/average.PNG" alt="average" width="600"/>
 
-## 3. Sources
+## 4. Sources
 
 * [Definition](https://blog.socialcops.com/academy/resources/7-techniques-to-visualize-geospatial-data/)
 * [Pictures before and after clustering, and grid cluster](http://blog.batchgeo.com/map-clustering-demo-tutorial/)
