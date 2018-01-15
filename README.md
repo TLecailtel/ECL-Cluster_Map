@@ -41,7 +41,7 @@ This is an example of natural clustering:
 
 The map is divided into squares of a certain size and the cluster marker is placed in the center of each applicable grid square. As zoom levels change, so do the clusters and their location on the map but they will maintain their grid-like appearance.
 
-This is the intermediate step that uses a grid to create the clusters:
+This is the intermediate step that used a grid to create the clusters in the 1st part:
 
 <img src="img/grid.png" alt="grid" width="600"/>
 
