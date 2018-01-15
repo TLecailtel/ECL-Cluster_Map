@@ -1,4 +1,4 @@
-## Thibault Lecailtel
+## Thibault Lecailtel - DataViz class @CentraleLyon - January 15th, 2018
 
 # Cluster Map
 
@@ -6,7 +6,7 @@
 
 A cluster map helps represent dense pockets of data points using a single point. Each cluster is either relatively sized to or labelled with the number of points that have been grouped together.
 
-Clusters are ideal in interactive maps where the user can drill down to see individual data points contained in a cluster. Cluster maps help reduce clutter when there are many overlapping data points in a small geography. Often, the clusters are updated depending on the zoom chosen by the user. 
+Clusters are ideal in interactive maps where the user can drill down to see individual data points contained in a cluster. Cluster maps help reduce clutter when there are many overlapping data points in a small geography. Often, the clusters are updated depending on the zoom chosen by the user.
 
 For example, here is a map with hundreds of markers:
 
@@ -18,16 +18,23 @@ Instead, we use the following cluster map:
 
 ## 2. Recent example
 
-There is no example of historical cluster maps because these maps are often interactive maps depending on several markers, thus they use recent technologies with clustering algorithms.
+There is no historical examples of cluster maps because these maps are often interactive and depending on several markers, thus they use recent technologies with clustering algorithms that did not exist a century ago.
 
-However, there are lots of examples of recent cluster maps. They are especially used by companies that have several stores on a territory.
+However, there are lots of recent examples of cluster maps. They are especially used on the website of companies that have several stores on a territory.
 
-For example, here is an extract of the cluster map of the Carrefour stores in France, on January 15th, 2018:
+For example, here is an extract of the cluster map representing the Carrefour stores in France:
 
 <img src="img/carrefour.png" alt="carrefour" width="600"/>
 
+## 3. Design critic
 
-## 3. Variations
+I think clustering the markers is a great way of simplifying the map.
+
+The following picture, with hundreds of markers representing the Auchan stores in France, looks messy to me. Furthermore, Carrefour's cluster map has the advantage of showing the actual number of stores in the area - which is impressive in the Paris area -, while the markers on Auchan's map are all compressed and their number cannot be estimated.
+
+<img src="img/auchan.png" alt="auchan" width="600"/>
+
+## 4. Variations
 
 * **Natural**
 
@@ -41,17 +48,31 @@ This is an example of natural clustering:
 
 The map is divided into squares of a certain size and the cluster marker is placed in the center of each applicable grid square. As zoom levels change, so do the clusters and their location on the map but they will maintain their grid-like appearance.
 
-This is the intermediate step that used a grid to create the clusters in the 1st part:
+This is the intermediate step that used a grid to create the clusters in the part 1:
 
 <img src="img/grid.png" alt="grid" width="600"/>
 
 * **Different sizes and/or colors**
 
-Different colors, shapes, and icons are useful for emphasizing clusters on the map. Clusters with a higher number count will stand out if given a larger size or a brighter color.
+Different colors and shapes are useful for emphasizing clusters on the map. Clusters with a higher number count will stand out if given a larger size or a brighter color.
 
 Here is a map where the color and the size of each cluster is proportional to the number of markers represented:
 
 <img src="img/color.PNG" alt="color" width="600"/>
+
+* **Special icons**
+
+Of coure, clusters are not always represented as circles or big pins.
+
+* Darty uses an icon close to their graphical charter on the cluster map that shows their stores in the Lyon area:
+
+<img src="img/darty.png" alt="darty" width="600"/>
+
+* Bouygues Telecom prefers to use simple text labels as clusters:
+
+<img src="img/bouygues.png" alt="bouygues" width="600/>
+
+
 
 * **Pie charts**
 
@@ -69,11 +90,17 @@ For example, here are clusters showing the average incomes in the USA, along wit
 
 <img src="img/average.PNG" alt="average" width="600"/>
 
-## 4. Different looks
+## 5. Different looks
 
-Cluster maps can have various looks, using different colors, sizes or shapes for the clusters. 
+Cluster maps can have various looks, using different colors, sizes, or shapes for the clusters.
 
-## 5. Sources
+For instance, a cluster map using only one style for all the clusters is, in my opinion, not really effective. The Carrefour cluster map in part 2 and the "natural" cluster map in part 3 are monotonous. Even though each cluster shows the number of the markers it gathers, the difference between the clusters' sizes could be emphasized by different colors and/or different circle sizes.
+
+These cluster maps are indeed better to me:
+
+
+
+## 6. Sources
 
 * [Definition](https://blog.socialcops.com/academy/resources/7-techniques-to-visualize-geospatial-data/)
 * [Pictures before and after clustering, and grid cluster](http://blog.batchgeo.com/map-clustering-demo-tutorial/)
