@@ -10,7 +10,7 @@ For example, a cluster map can be an alternative to simplify the reading of the 
 
 <img src="img/before.png" alt="before" width="600"/>
 
-And that would be the simplified cluster map:
+And that would be a simplified cluster map:
 
 <img src="img/after.png" alt="after" width="600"/>
 
